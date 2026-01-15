@@ -1,0 +1,7 @@
+{
+  "name": "joschatAI",
+  "description": "Una plataforma educativa sobre inteligencia artificial que integra generación de imágenes, edición asistida por IA, chat de razonamiento profundo y conversaciones de voz en tiempo real utilizando la API de Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
